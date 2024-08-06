@@ -6,7 +6,7 @@
 My name is Inggrit Setya Budi and I'm a web developer. 
 On this page, you will find all of the code snippets and projects that I have worked on.
 
-[![My Youtube channel](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@sinyo23)
+[![My Youtube channel](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@sinyoo23)
 
 ## Technologies that I use
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
