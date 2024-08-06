@@ -1,4 +1,4 @@
-# InggritSetyaBudi
+# Inggrit Setya Budi
 
 ![ISB](https://i.ibb.co.com/Sn7b3YN/dashboard-profile-logo-transformed.jpg) 
 
