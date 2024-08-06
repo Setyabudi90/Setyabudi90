@@ -3,7 +3,8 @@
 ![ISB](https://i.ibb.co.com/Sn7b3YN/dashboard-profile-logo-transformed.jpg) 
 
 ## Who am I?
-My name is Inggrit Setya Budi and I'm a web developer. On this page, you will find all of the code snippets and projects that I have worked on.
+My name is Inggrit Setya Budi and I'm a web developer. 
+On this page, you will find all of the code snippets and projects that I have worked on.
 
 [![My Youtube channel](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@Gabut3650)
 
