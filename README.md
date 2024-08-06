@@ -1,6 +1,6 @@
 # InggritSetyaBudi
 
-![ISB]([https://link-ke-logo-anda.png](https://i.ibb.co.com/Sn7b3YN/dashboard-profile-logo-transformed.jpg)) 
+![ISB](https://i.ibb.co.com/Sn7b3YN/dashboard-profile-logo-transformed.jpg) 
 
 ## Who am I?
 My name is Inggrit Setya Budi and I'm a web developer. On this page, you will find all of the code snippets and projects that I have worked on.
