@@ -1,30 +1,17 @@
-# Profil GitHub
+# InggritSetyaBudi
 
-## Tentang Saya
+![ISB]([https://link-ke-logo-anda.png](https://i.ibb.co.com/Sn7b3YN/dashboard-profile-logo-transformed.jpg)) 
 
-Halo! Saya [Inggrit Setya Budi], seorang pengembang perangkat lunak yang berfokus pada pengembangan web dan aplikasi.
+## Who am I?
+My name is Inggrit Setya Budi and I'm a web developer. On this page, you will find all of the code snippets and projects that I have worked on.
 
-- 🌱 Saat ini saya sedang mempelajari dan menggunakan Next.js untuk pengembangan aplikasi web.
-- 👨‍💻 Pengalaman saya meliputi penggunaan React.js untuk membangun antarmuka pengguna yang responsif dan dinamis.
-- ☕ Saya juga memiliki latar belakang dalam pengembangan aplikasi dengan Java dan C++.
+[![My Youtube channel](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@YourChannel)
 
-## Bahasa dan Teknologi
+## Technologies that I use
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-# ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/128px-HTML5_logo_and_wordmark.svg.png) **HTML/CSS/JavaScript:** Pengalaman dalam pengembangan frontend menggunakan HTML, CSS, dan JavaScript untuk membuat antarmuka pengguna yang menarik dan responsif.
-  
-# ![Next.js](https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png) **Next.js:** Memiliki keahlian dalam membangun aplikasi web dengan Next.js, termasuk SSR dan pembuatan API.
-
-# ![React.js](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/128px-React-icon.svg.png) **React.js:** Penggunaan React.js untuk pengembangan aplikasi frontend modern dengan manajemen state yang efisien.
-
-# ![Java](https://upload.wikimedia.org/wikipedia/id/2/2e/Java_Logo.svg) **Java:** Pengalaman dalam pengembangan aplikasi berbasis Java, termasuk aplikasi desktop dan backend.
-
-# ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/128px-ISO_C%2B%2B_Logo.svg.png) **C++:** Pemrograman dalam C++ untuk aplikasi desktop dan performa tinggi.
-
-## Kontak
-
-Jika Anda tertarik berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya di:
-
-# Email: [dbgaming679@gmail.com)
-# GitHub: [github.com/Setyabudi90/](https://github.com/Setyabudi90/)
-
-Terima kasih telah mengunjungi profil GitHub saya!
